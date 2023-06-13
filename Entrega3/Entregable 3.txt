@@ -1,0 +1,6 @@
+1- Porque algunos lenguajes son multiplataformas y otros no. El lenguaje Java, seria un emjeplo de lenguajes
+multiplataforma, ya que permite la ejecucion en distintos sistemas operativos.
+2- VisrtualBox es una maquina vistrual Tipo II, o dicho de manera distinta, de sistema.¨Porque permite
+ ejecutar sistemas operativos dentros de si, y no solo procesos.
+3- Si una maquina virtual se rompe, no afecra a las demás, porque cada maquina virtual es independiente a la otra,
+ y esto proprciona un entorno seguro. Siempre y cuando, el hardware, que sostiene a todas las VM, no se rompa.
