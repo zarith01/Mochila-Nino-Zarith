@@ -1,0 +1,8 @@
+
+MAC  de mi VM
+
+netmask 255.255.255.0
+
+IP de mi VM
+
+inet 10.0.2.15 
